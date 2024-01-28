@@ -1,6 +1,6 @@
 {
   "flyer": {
-    "enabled": true,
+    "enabled": false,
     "expires": 1702782000
   }
 }
